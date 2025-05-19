@@ -26,7 +26,7 @@
 - Building scalable inference systems for **low-resource environments**
 
 ### 💬 Ask me about:
-- ** Forecasting** with deep learning
+- **Forecasting** with deep learning
 - **Decentralized health records** using Ethereum + IPFS
 - **Industrial Edge AI** with NVIDIA Jetson & DeepStream
 - Benchmarking **CV models** for embedded deployments
@@ -46,4 +46,3 @@ Being a huge football fan, I built a result predictor for the fifa world cup tha
 
 Thanks for stopping by! Let’s build something great together 🌍💡
 
--->
