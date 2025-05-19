@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Sanjay
 
-<!--
-**sanjay-ks23/sanjay-ks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 🚀 Deep Learning Engineer | AI Researcher | Builder of Practical Solutions
 
 Curious mind with a code editor in one hand and a whiteboard full of ideas in the other. I build AI systems that solve real-world problems — from wind energy forecasting to autonomous industrial safety to decentralized healthcare.
